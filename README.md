@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Barbarouge
+- 👋 Hi, I’m Barbaros Yesilova
 - I'm a sudent @ComputerScience
 
 <!---
